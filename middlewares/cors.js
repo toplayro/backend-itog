@@ -15,7 +15,8 @@ const allowedCors = [
     "http://localhost:3001",
     "http://localhost:3000",
     "https://practicum.yandex.ru",
-    "https://students-projects.ru"
+    "https://students-projects.ru",
+    "https://gokolsin-pindie-frontend.nomoredomainswork.ru"
 ]
 
 module.exports = { cors }
