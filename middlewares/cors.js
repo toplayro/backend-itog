@@ -18,8 +18,7 @@ const allowedCors = [
     "https://students-projects.ru",
     "https://gokolsin-pindie-frontend.nomoredomainswork.ru",
     "https://gokolsin-pindie-backend.nomoredomainswork.ru",
-    "http://158.160.164.221:3001",
-    "http://158.160.164.221:3000"
+    "http://158.160.164.221"
 ]
 
 module.exports = { cors }
